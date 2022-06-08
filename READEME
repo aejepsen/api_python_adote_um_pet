@@ -1,0 +1,14 @@
+// python3 -m venv .venv         -- cria pasta .venv
+// source .venv/bin/activate     -- ativa ambiente virtual
+// pip install django            -- instala django última versão
+// django-admin startproject adote_um_pet .      -- cria projeto django adote_um_pet
+// python manage.py runserver    --  inicia ambiente de desenvolvimento
+// python manage.py startapp pet -- cria a app pet
+// python manage.py makemigrations -- cria migração p/  bd
+// python manage.py migrate        -- aplica as migrações para o bd
+// pip install django-rest-framework  -- instala django rest 
+// pip freeze  -- lista bibliotecas instaladas
+// python manage.py startapp adocao  -- cria app adocao
+// python manage.py makemigrations   -- cria migração bd
+// python manage.py migrate  -- aplica as migrações para o bd
+// pip install django-cors-headers  -- desabilita restrição de acesso aAPI/app
